@@ -19,7 +19,7 @@
 import psutil
 import time
 
-def monitor_cpu(threshold: float = 80.0):
+def monitor_cpu(threshold: float = 10.0):
     print("Monitoring CPU usage...")
     try:
         while True:

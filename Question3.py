@@ -30,7 +30,6 @@
 # Server:
 # - address: 192.168.0.1
 # - port: 8080
-#C:\Users\HP\OneDrive\Desktop\Ankit\Hero Vired\config.ini
 
 import configparser
 import json
